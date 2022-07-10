@@ -7,7 +7,7 @@ var die =
 let character = prompt("What is your name, new changeller");
 console.log(character);
 let ready = prompt(
-  `You are in the Music Panda, ready to answer questions?, ${character}?`
+  `You are in the Music Panda, ready to answer questions, ${character}?`
 );
 console.log(ready);
 
